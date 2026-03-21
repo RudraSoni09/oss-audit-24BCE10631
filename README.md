@@ -48,19 +48,27 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
  Step 2: Run Scripts
 
 ## Script 1
+```bash
 ./script1.sh
-
+```
 ## Script 2
+```bash
 ./script2.sh
-
+```
 ## Script 3
+```bash
 ./script3.sh
+```
 
 ## Script 4
-./script4.sh /var/log/install.log
+```bash
+./script4.sh/var/log/install.log
+```
 
 ## Script 5
+```bash
 ./script5.sh
+```
 
 ## Script Descriptions
 
