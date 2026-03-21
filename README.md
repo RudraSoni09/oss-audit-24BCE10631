@@ -2,10 +2,10 @@ Open Source Software - NGMC Evaluated Course Project
 
 ##  Student Details
 
-Name: Rudra Soni
-Registration Number: 24BCE10631
-Course: Open Source Software 
-Chosen Software: Python
+- **Name:** Rudra Soni  
+- **Registration Number:** 24BCE10631  
+- **Course:** Open Source Software  
+- **Chosen Software:** Python  
 
 
 ## Project Description
@@ -24,18 +24,19 @@ Make sure the following are installed on your system:
  Python3
 
 Check installation:
-
+```bash
 python3 --version
+```
 
 ## Project Structure
 
 oss-audit-24BCE10631/
 │
-├── script1.sh   # System Identity Report
-├── script2.sh   # Python Package Inspector
-├── script3.sh   # Disk and Permission Auditor
-├── script4.sh   # Log File Analyzer
-├── script5.sh   # Open Source Manifesto Generator
+├── script1.sh
+├── script2.sh
+├── script3.sh
+├── script4.sh
+├── script5.sh
 ├── README.md
 
 ## How to Run the Project
