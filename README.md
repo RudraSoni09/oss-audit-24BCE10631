@@ -29,7 +29,7 @@ python3 --version
 ```
 
 ## Project Structure
-
+```
 oss-audit-24BCE10631/
 │
 ├── script1.sh
@@ -38,6 +38,7 @@ oss-audit-24BCE10631/
 ├── script4.sh
 ├── script5.sh
 ├── README.md
+```
 
 ## How to Run the Project
 
