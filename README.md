@@ -37,6 +37,7 @@ oss-audit-24BCE10631/
 ├── script3.sh
 ├── script4.sh
 ├── script5.sh
+├── manifesto.txt
 ├── README.md
 ```
 
