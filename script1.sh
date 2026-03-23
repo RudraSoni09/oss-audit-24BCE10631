@@ -6,7 +6,7 @@ SOFTWARE_CHOICE="Python"
 
 KERNEL=$(uname -r)
 USER_NAME=$(whoami)
-UPTIME=$(uptime -p)
+UPTIME=$(uptime)
 DATE=$(date)
 
 echo "================================"
