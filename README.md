@@ -43,7 +43,9 @@ oss-audit-24BCE10631/
 
  Step 1: Make scripts executable
 
+```bash
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+```
 
  Step 2: Run Scripts
 
